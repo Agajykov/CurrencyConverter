@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 /**
  * CurrencyConverter class that allows users to convert currencies.
- * Author: Avdyrahman Agajykov, Mtr number 84650502
+ * Author: Avdyrahman Agajykov
  */
 public class CurrencyConverter {
 	static boolean dontWantToExit = true;
